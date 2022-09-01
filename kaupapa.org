@@ -1,0 +1,7 @@
+#+title: Kaupapa doc
+* Ohu Raraunga
+** Māori Data Governance Model report
+*** TODO Flesh out Data Classification pou
+*** TODO Finish section on Te Pu a nga Maara
+*** TODO Add comments on APIs + end products to Data access, sharing, and repatriation pou
+
