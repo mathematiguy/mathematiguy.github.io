@@ -18,12 +18,14 @@ https://twitter.com/tpoi
 ** TODO Academic Integrity/Plagiarism short unit
 ** TODO Sexual harassment short unit
 ** TODO Get medical insurance
-** TODO Get public transit card
+** DONE Get public transit card
+CLOSED: [2022-09-02 Fri 16:14]
 ** Review get ready
 https://www.mcgill.ca/getready/
 * Money stuff
 ** TODO Update my budget on YNAB 
 ** TODO Send invoice to Te Kahui Raraunga
+** TODO Update rent payments to $485 p/w
 * House stuff
 ** TODO Get a phone plan with Bell
 ** TODO Pay Michael back for first month's rent
