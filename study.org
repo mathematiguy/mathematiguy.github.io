@@ -1,4 +1,19 @@
 #+title: Life organisation
+
+* Social stuff
+
+** People to meet
+
+*** Raesetje Sefala at Mila
+https://twitter.com/bonjora
+
+*** Timothée Poisot
+https://twitter.com/tpoi
+
+*** Nadia - Aoife's friend
++1 (514) 914 8758
+
+
 * Uni stuff
 ** TODO Academic Integrity/Plagiarism short unit
 ** TODO Sexual harassment short unit
@@ -11,5 +26,9 @@ https://www.mcgill.ca/getready/
 * House stuff
 ** TODO Get a phone plan with Bell
 ** TODO Pay Michael back for first month's rent
+** TODO Retrieve my PC + Monitor
+Contact customer service 1-800-463-3339 and they can give you more details regarding
+delivery and options should you wish to pick it up.
+Due to a holiday they are closed on Monday
 * NZ stuff
 ** TODO Cancel 2degrees plan when ready
