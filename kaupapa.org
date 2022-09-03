@@ -1,10 +1,18 @@
 #+title: Kaupapa doc
+
 * Ohu Raraunga
 ** Māori Data Governance Model report
 *** TODO Flesh out Data Classification pou
 *** DONE Finish section on Te Pu a nga Maara
 CLOSED: [2022-09-02 Fri 14:51]
 *** TODO Add comments on APIs + end products to Data access, sharing, and repatriation pou
+
+* Side-projects
+
+** Spanning tree dictionary-derived dataset
+Idea: Derive an ordering on the language vocabulary that maximises the information gain for language learners
+using an external source (such as a dictionary or a text corpus)
+
 * Indigenous in AI
 ** TODO Send details to Lauren Halley
 ** TODO Confirm attendance at NeurIPS 2022
