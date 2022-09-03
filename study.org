@@ -13,6 +13,23 @@ https://twitter.com/tpoi
 *** Nadia - Aoife's friend
 +1 (514) 914 8758
 
+* Things to buy
+
+** Clothes
+
+*** Brown chinos
+
+*** Light shoes
+
+** Bedroom
+
+*** Bed frame
+
+*** Mattress
+
+*** Sheets
+
+*** Blankets
 
 * Uni stuff
 ** TODO Academic Integrity/Plagiarism short unit
@@ -21,7 +38,7 @@ https://twitter.com/tpoi
 ** DONE Get public transit card
 CLOSED: [2022-09-02 Fri 16:14]
 ** Review get ready
-https://www.mcgill.ca/getready/
+
 * Money stuff
 ** TODO Update my budget on YNAB 
 ** TODO Send invoice to Te Kahui Raraunga
