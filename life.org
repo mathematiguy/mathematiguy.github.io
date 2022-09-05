@@ -76,6 +76,7 @@ CLOSED: [2022-09-02 Fri 16:14]
 ** TODO Update my budget on YNAB 
 ** TODO Send invoice to Te Kahui Raraunga
 ** TODO Update rent payments to $485 p/w
+
 * House stuff
 ** TODO Get a phone plan with Bell
 ** TODO Pay Michael back for first month's rent
