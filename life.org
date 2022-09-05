@@ -18,11 +18,16 @@ https://twitter.com/tpoi
 
 ** Clothes
 
-*** Brown chinos
+*** DONE Brown chinos
+Bought from Simons
+CLOSED: [2022-09-04 Sun 23:18]
 
-*** Green chinos
+*** DONE Green chinos
+Bought from Simons
+CLOSED: [2022-09-04 Sun 23:18]
 
-*** Light shoes
+*** DONE Light shoes
+CLOSED: [2022-09-04 Sun 23:18]
 
 *** Winter coat
 
