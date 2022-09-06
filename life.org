@@ -58,7 +58,22 @@ CLOSED: [2022-09-04 Sun 23:18]
 *** DONE Light shoes
 CLOSED: [2022-09-04 Sun 23:18]
 
-*** Winter coat
+*** TODO Winter coat
+
+**** Where to look for a winter coat, according to Quora
+https://www.quora.com/Where-can-I-buy-a-good-and-cheap-and-stylish-winter-coat-in-Montreal-for-Montreal-winters
+
+**** Jackets I kinda like:
+
+***** https://audvik.com/en/collections/manteaux-homme/products/dallas-graphite-ak20026?variant=12641071038549
+
+***** https://audvik.com/en/collections/manteaux-homme/products/copy-of-manteau-dhiver-pour-homme-denver-ak20031?variant=30077714333781
+
+***** https://audvik.com/en/collections/manteaux-homme/products/manteau-dhiver-pour-homme-toronto-recycle-ak20033?variant=23369181167701
+
+***** https://orage.com/collections/men-jackets/products/hillside-jacket-h10101?variant=39504185393198
+
+***** https://audvik.com/collections/audvik-homme/products/dallas-graphite-ak20026?variant=29265922502
 
 *** Winter boots
 
