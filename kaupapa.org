@@ -6,7 +6,24 @@
 *** DONE Finish section on Te Pu a nga Maara
 CLOSED: [2022-09-02 Fri 14:51]
 *** TODO Add comments on APIs + end products to Data access, sharing, and repatriation pou
-
+** Hui 5/Sep/2022
+*** Kylie Reiri said to consider specific technology solutions
+*** NZ Govt agencies standing up Māori Data Governance rōpū
+They don't know what they're trying to govern, it has to be explained
+to them.
+*** System-wide governance as opposed to fine-grain details
+*** Thoughts from Aroha
+The policy is about the principle of active protection because it is a
+taonga
+It's not for the kawanatanga to define what it is or how Māori use data.
+It's up to them to make sure the protocols are in place for access and
+return to Māori
+*** What is the operating model?
+Whose job is it to open the door when Māori come knocking?
+Technological considerations for sharing information
+(NB: sharing with Māori vs sharing with public/transparency have different
+technical requirements)
+*** 
 * Side-projects
 
 ** Spanning tree dictionary-derived dataset
