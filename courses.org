@@ -82,6 +82,23 @@ Indigenous in AI - attending in person
 **** Course website
 https://www.cs.mcgill.ca/~yueli/teaching/COMP551_Fall2022/comp551_syllabus.html
 ****
+*** Lecture 3 - 8/Sep/2022
+**** More KNN on Iris dataset
+***** Talked about:
+****** Colab notebook example code
+****** Emphasising how to implement train/validation/test split
+****** Will go through example slowly in tutorial?
+****** Computational complexity
+****** Feature scale sensitivity/Feature standardization
+****** Weighted kNN
+****** Concentration of measure/Curse of dimensionality
+**** Core ML Concepts
+***** Model evaluation
+***** Model selection
+***** ROC Curve
+***** Cross-validation
+***** Method comparison
+
 *** Lecture 1 - 1/Sep/2022
 **** Course Evaluation
 Weekly online quizzes - 10%
