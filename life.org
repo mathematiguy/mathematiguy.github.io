@@ -122,8 +122,9 @@ CLOSED: [2022-09-02 Fri 16:14]
 ** TODO Update rent payments to $485 p/w
 
 * House stuff
-** TODO Get a phone plan with Bell
+** TODO Get a phone plan
 ** TODO Pay Michael back for first month's rent
+** TODO Pay Maize back $25
 ** TODO Retrieve my PC + Monitor
 Contact customer service 1-800-463-3339 and they can give you more details regarding
 delivery and options should you wish to pick it up.
