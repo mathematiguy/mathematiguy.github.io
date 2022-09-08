@@ -47,7 +47,33 @@ Location: Arizona State University in Scottsdale, AZ
 ****** NeurIPS 2022
 Indigenous in AI - attending in person
 **** Action points
+** Funding
+*** Apply for graduate funding
 
+    All Doctoral students are required to apply for at least one federal and one provincial award each year they are eligible. GPS has launched a pilot initiative to provide a French abstract review service for FRQ doctoral fellowship applications. In order to benefit from the service, applicants must submit a draft translation of their project summary (lay abstract) in French.
+    The service is offered to:
+
+        All FRQSC doctoral applicants
+        100 FRQNT doctoral applicants (first come, first served)
+        100 FRQS doctoral applicants (first come, first served)
+
+    Translation upload requirements:
+
+        Title (max 400 characters)
+        Lay abstract (max 500 words)
+            In order to benefit form the translation review service offered by GPS, students must submit their English abstract and a draft French translation.
+            Applicants must use DeepL or Reverso (not Google Translate) for their initial translation and indicate which one they used. 
+        Each abstract must include the student’s full name and e-mail address.
+
+    A single .doc or .docx file must be submitted to GPS through the webform by September 15, 2022. The file must be renamed to AGENCY_StudentName (e.g.: FRQS_JohnDoe).
+
+    In order to maximize their chances, students are encouraged to consult FRQ information session materials on this page (including Tips & Tricks for successful Fellowship applications). Consult the attachment for more information.
+
+    As a reminder, competition deadlines for final submission vary by agency:
+
+        FRQNT Doctoral Award – October 4 at 4:00 PM
+        FRQS Doctoral Award– October 6 at 4:00 PM
+        FRQSC Doctoral Award – October 12 at 4:00 PM 
 ** Comp 585 - Intelligent Software Systems
 ***
 ** Comp 551 - Applied Machine Learning
