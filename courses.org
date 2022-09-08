@@ -15,6 +15,7 @@ https://www.mcgill.ca/getready/
 ** Mila
 ***
 ** Research
+
 *** Scrum meeting - 07/Sep/2022
 **** Updates
 ***** Enrolled in COMP 599 - Natural language understanding with Siva Reddy
@@ -112,4 +113,8 @@ K Nearest Neighbours
 Wegman-Carter Authentication
 **** Impersonation/Man in the middle attack
 **** Quantum Key distribution
-
+**** Diffie-Hellman Key Exchange
+**** Public Key Cryptography
+**** Asymmetric Authentication
+**** Digital Signatures
+**** Zero Knowledge Identification
