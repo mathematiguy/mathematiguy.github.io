@@ -2,10 +2,21 @@
 
 * Ohu Raraunga
 ** Māori Data Governance Model report
-*** TODO Flesh out Data Classification pou
+*** DONE Algorithms sub-section
+CLOSED: [2022-09-10 Sat 08:16]
+2 paras
+Also can you think of an example (bad) or exemplar (positive)
+I can write that up if you point me in the right direction with url
+or material
+*** DONE Data linkage and integration sub-section
+CLOSED: [2022-09-10 Sat 08:05]
+2 paras please
+pull-out example using Equity Index from your chapter in Counting zeroes
 *** DONE Finish section on Te Pu a nga Maara
 CLOSED: [2022-09-02 Fri 14:51]
-*** TODO Add comments on APIs + end products to Data access, sharing, and repatriation pou
+*** DONE Second paragraph for 2.2 on Distributed and Decentralised
+CLOSED: [2022-09-09 Fri 14:21]
+and few sentences at the top of the context setting para
 ** Hui 5/Sep/2022
 *** Kylie Reiri said to consider specific technology solutions
 *** NZ Govt agencies standing up Māori Data Governance rōpū
