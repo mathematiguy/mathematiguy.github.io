@@ -80,6 +80,12 @@ Indigenous in AI - attending in person
 **** Course website
 https://www.cs.mcgill.ca/~yueli/teaching/COMP551_Fall2022/comp551_syllabus.html
 ****
+*** Lecture 4 - 13/Sep/2022
+**** True/False positive rates
+***** True positive rate = True positives / Positives = TP / (TP + FN)
+***** Classification models can produce probabilities
+***** Setting thresholds for FP/FN rates
+***** ROC Curves
 *** Lecture 3 - 8/Sep/2022
 **** More KNN on Iris dataset
 ***** Talked about:
