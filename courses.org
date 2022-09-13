@@ -121,7 +121,7 @@ Mini-project 4 - 17%
 ***** Unsupervised learning
 ***** Semisupervised learning
 ***** Reinforcement learning (not covered in this course)
-*** Lecture 2 - 6/Sep/2022
-K Nearest Neighbours
+** Comp 599 - Natural Language Understanding
+*** Lecture 4 - 13/Sep/2022
 **** 
 
