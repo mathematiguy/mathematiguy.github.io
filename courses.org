@@ -75,8 +75,6 @@ Indigenous in AI - attending in person
         FRQNT Doctoral Award – October 4 at 4:00 PM
         FRQS Doctoral Award– October 6 at 4:00 PM
         FRQSC Doctoral Award – October 12 at 4:00 PM 
-** Comp 585 - Intelligent Software Systems
-***
 ** Comp 551 - Applied Machine Learning
 *** Useful links
 **** Course website
