@@ -124,15 +124,4 @@ Mini-project 4 - 17%
 *** Lecture 2 - 6/Sep/2022
 K Nearest Neighbours
 **** 
-** Comp 547 - Encryption
 
-*** Lecture 2 - 06/Sep/2022
-**** One time authentication
-Wegman-Carter Authentication
-**** Impersonation/Man in the middle attack
-**** Quantum Key distribution
-**** Diffie-Hellman Key Exchange
-**** Public Key Cryptography
-**** Asymmetric Authentication
-**** Digital Signatures
-**** Zero Knowledge Identification
