@@ -97,6 +97,9 @@ https://www.cs.mcgill.ca/~yueli/teaching/COMP551_Fall2022/comp551_syllabus.html
 ***** Cross-validation
 ***** Method comparison
 
+*** Lecture 2 - 6/Sep/2022
+K Nearest Neighbours
+**** 
 *** Lecture 1 - 1/Sep/2022
 **** Course Evaluation
 Weekly online quizzes - 10%
