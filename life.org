@@ -115,11 +115,11 @@ https://www.maty-taneczne.pl/shop/dance-mat-ltek-ex-pro-x/
 
 ** Living room
 
-*** OLED TV
+*** TODO OLED TV
 
-*** Standing desk
+*** TODO Standing desk
 
-*** Speakers
+*** TODO Speakers
 
 * Uni stuff
 ** TODO Academic Integrity/Plagiarism short unit
