@@ -86,17 +86,23 @@ Buy merino wool from Icebreakers
 
 ** Bedroom
 
-*** Bed frame
+*** DONE Bed frame
+CLOSED: [2022-09-14 Wed 12:39]
 
-*** Pillows
+*** DONE Pillows
+CLOSED: [2022-09-14 Wed 12:39]
 
-*** Mattress
+*** DONE Mattress
+CLOSED: [2022-09-14 Wed 12:39]
 
-*** Sheets
+*** DONE Sheets
+CLOSED: [2022-09-14 Wed 12:39]
 
-*** Blankets
+*** DONE Blankets
+CLOSED: [2022-09-14 Wed 12:39]
 
-*** Drawer
+*** DONE Drawer
+CLOSED: [2022-09-14 Wed 12:39]
 
 *** Mirror
 
