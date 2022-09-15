@@ -131,14 +131,18 @@ CLOSED: [2022-09-02 Fri 16:14]
 
 * Money stuff
 ** TODO Update my budget on YNAB 
-** TODO Send invoice to Te Kahui Raraunga
+** DONE Send invoice to Te Kahui Raraunga
+CLOSED: [2022-09-14 Wed 22:14]
 ** TODO Update rent payments to $485 p/w
 
 * House stuff
 ** TODO Get a phone plan
-** TODO Pay Michael back for first month's rent
+** TODO Pay Michael back for first month's rent (approx $900 CAD)
+** TODO Pay Michael back for IKEA stuff (approx $500 CAD)
+** TODO Get an Amazon account
 ** TODO Pay Maize back $25
-** TODO Retrieve my PC + Monitor
+** DONE Retrieve my PC + Monitor
+CLOSED: [2022-09-14 Wed 22:14]
 Contact customer service 1-800-463-3339 and they can give you more details regarding
 delivery and options should you wish to pick it up.
 Due to a holiday they are closed on Monday
