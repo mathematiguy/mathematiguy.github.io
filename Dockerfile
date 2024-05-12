@@ -1,14 +1,8 @@
 # Base image
-FROM ubuntu:latest
+FROM ubuntu:23.04
 
 # Avoid prompts during package installation
 ARG DEBIAN_FRONTEND=noninteractive
-
-# Create user 'user' to create a home directory
-RUN useradd user
-RUN mkdir -p /home/user/
-RUN chown -R user:user /home/user
-ENV HOME /home/user
 
 # Update the system and install dependencies
 RUN apt-get update && apt-get install -y \
@@ -36,6 +30,17 @@ ENV PATH="/usr/local/go/bin:${PATH}"
 RUN wget https://github.com/gohugoio/hugo/releases/download/v0.125.7/hugo_extended_0.125.7_Linux-64bit.tar.gz \
 && tar -xzf hugo_extended_0.125.7_Linux-64bit.tar.gz -C /usr/local/bin/ \
 && rm hugo_extended_0.125.7_Linux-64bit.tar.gz
+
+# Set the working directory
+WORKDIR /code
+
+# Copy your project files into the Docker image
+COPY . /code
+
+# Run hugo, delete the project files and make /tmp readable to ubuntu user
+RUN hugo && \
+    rm -rf /code/* && \
+    chown ubuntu:ubuntu -R /tmp
 
 # Command to run on container start
 CMD ["bash"]
