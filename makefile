@@ -4,13 +4,13 @@ DOCKER_REGISTRY := mathematiguy
 IMAGE := $(DOCKER_REGISTRY)/$(IMAGE_NAME)
 HAS_DOCKER ?= $(shell which docker)
 RUN ?= $(if $(HAS_DOCKER), docker run $(DOCKER_ARGS) --rm -v $$(pwd):/code -w /code -u $(UID):$(GID) $(IMAGE))
-UID ?= $(shell id -u)
-GID ?= $(shell id -g)
+UID ?= user
+GID ?= user
 DOCKER_ARGS ?=
 
 .PHONY: docker docker-push docker-pull enter enter-root
 
-docker:
+container:
 	docker build $(DOCKER_ARGS) --tag $(IMAGE):$(GIT_TAG) .
 	docker tag $(IMAGE):$(GIT_TAG) $(IMAGE):latest
 
@@ -22,12 +22,12 @@ docker-pull:
 	docker pull $(IMAGE):$(GIT_TAG)
 	docker tag $(IMAGE):$(GIT_TAG) $(IMAGE):latest
 
-CMD ?=
-hugo:
-	$(RUN)
+shell: DOCKER_ARGS=-it
+shell:
+	$(RUN) bash
 
-server:
-	$(RUN) server $(CMD)
-
-help:
-	$(RUN) help $(CMD)
+root-shell: DOCKER_ARGS=-it
+root-shell: UID=root
+root-shell: GID=root
+root-shell:
+	$(RUN) bash
