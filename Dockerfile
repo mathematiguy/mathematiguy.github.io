@@ -37,11 +37,5 @@ RUN wget https://github.com/gohugoio/hugo/releases/download/v0.125.7/hugo_extend
 && tar -xzf hugo_extended_0.125.7_Linux-64bit.tar.gz -C /usr/local/bin/ \
 && rm hugo_extended_0.125.7_Linux-64bit.tar.gz
 
-# Set the working directory
-WORKDIR /code
-
-# Copy your project files into the Docker image
-COPY . /code
-
 # Command to run on container start
 CMD ["bash"]
