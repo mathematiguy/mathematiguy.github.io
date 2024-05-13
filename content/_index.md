@@ -226,7 +226,7 @@ sections:
       title: Contact
       subtitle:
       text: |-
-        If you'd like to reach out to discuss my work or to extend an invitation, feel free to use this form or simply email me at calebjdmoses@gmail.com
+        If you'd like to reach out to discuss my work or to extend an invitation, feel free to email me at calebjdmoses@gmail.com
       # Contact (add or remove contact options as necessary)
       email: calebjdmoses@gmail.com
       # phone: 888 888 88 88
