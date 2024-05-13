@@ -37,9 +37,9 @@ interests:
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Computer Science
+    - course: PhD Student in Computer Science
       institution: McGill University
-      year: Currently working
+      year: in progress
     - course: Postgraduate Diploma in Mathematics
       institution: University of Auckland
       year: 2015
@@ -125,6 +125,6 @@ Caleb Moses is a PhD Student in computer science, supervised by Prof Jackie Cheu
 
 His research interests focus on the application of artificial intelligence to Language Revitalisation of Indigenous languages, in particular te reo Māori, the language of the Indigenous people of New Zealand.
 
-Caleb hails from Hokianga-Nui-ā-Kupe, the "great returning place of Kupe", the legendary Polynesian navigator. His Iwi (tribe) is Ngāpuhi-Nui-Tonu, and his Hapū (sub-tribe) is Te Mahurehure.
+Caleb hails from Te-Hokianga-Nui-ā-Kupe, the "great returning place of Kupe", the legendary Polynesian navigator. His Iwi (tribe) is Ngāpuhi-Nui-Tonu, and his Hapū (sub-tribe) is Te Mahurehure.
 
 {style="text-align: justify;"}
